@@ -1,10 +1,10 @@
-# Note APP
+# ENZYME-JEST
 
-task from Disqo
+JS conf Armenia 2019
 
 ## Node 
 
-version 14
+version 8
 ## Installation
 
 Use the package manager npm to install Note app.
