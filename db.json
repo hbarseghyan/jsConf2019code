@@ -1,0 +1,29 @@
+{
+  "newsList": [
+    {
+      "name": "news 1",
+      "text": "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The ",
+      "id": 1000
+    },
+    {
+      "name": "news 2",
+      "text": "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The ",
+      "id": 2000
+    },
+    {
+      "name": "news 3",
+      "text": "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The ",
+      "id": 3000
+    },
+    {
+      "name": "news 4",
+      "text": "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The ",
+      "id": 4000
+    },
+    {
+      "name": "news 5",
+      "text": "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The ",
+      "id": 5000
+    }
+  ]
+}

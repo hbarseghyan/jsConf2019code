@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsItem should render a card 1`] = `
+<Card
+  body={false}
+  className="customer-card"
+  style={
+    Object {
+      "width": "16rem",
+    }
+  }
+>
+  <CardHeader>
+    test 1
+  </CardHeader>
+  <CardBody>
+    <CardText>
+      <small
+        className="s-muted"
+      >
+        text 2
+      </small>
+    </CardText>
+  </CardBody>
+</Card>
+`;

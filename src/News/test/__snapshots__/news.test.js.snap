@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News News loaded should render a cards 1`] = `
+<div
+  className="bootstrap-wrapper content-container"
+>
+  <Container
+    fluid={false}
+  >
+    <ForwardRef
+      noGutters={false}
+    >
+      <Col>
+        <h1
+          className="page-header"
+        >
+          News
+        </h1>
+      </Col>
+    </ForwardRef>
+    <ForwardRef
+      noGutters={false}
+    >
+      <Col
+        key="1000"
+      >
+        <ForwardRef
+          noGutters={false}
+        >
+          <NewsItem
+            name="news 1"
+            text="news text "
+          />
+        </ForwardRef>
+      </Col>
+      <Col
+        key="2000"
+      >
+        <ForwardRef
+          noGutters={false}
+        >
+          <NewsItem
+            name="news 2"
+            text="news text "
+          />
+        </ForwardRef>
+      </Col>
+      <Col
+        key="3000"
+      >
+        <ForwardRef
+          noGutters={false}
+        >
+          <NewsItem
+            name="news 3"
+            text="news text "
+          />
+        </ForwardRef>
+      </Col>
+      <Col
+        key="4000"
+      >
+        <ForwardRef
+          noGutters={false}
+        >
+          <NewsItem
+            name="news 4"
+            text="news text "
+          />
+        </ForwardRef>
+      </Col>
+      <Col
+        key="5000"
+      >
+        <ForwardRef
+          noGutters={false}
+        >
+          <NewsItem
+            name="news 5"
+            text="news text "
+          />
+        </ForwardRef>
+      </Col>
+    </ForwardRef>
+  </Container>
+</div>
+`;
